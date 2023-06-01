@@ -1,6 +1,4 @@
 # Anomaly Detection in Time Series Datasets
-*authors: Dawid Sitnik, Władysław Sinkiewicz*
-
 **File Description**
 
 * LSTM_approach.ipynb - Jupiter notebook in which LSTM solution is made
